@@ -29,6 +29,8 @@
 // console.log(SmallestIntegerFinder([1, 2 , 3 , -4]))
 
 // sum of positive 
-const positiveSum = arr => {
- return arr.reduce((x,y) => x + (y > 0 ? y : 0), 0)
-}
+// const positiveSum = arr => {
+//  return arr.reduce((x,y) => x + (y > 0 ? y : 0), 0)
+// }
+
+
